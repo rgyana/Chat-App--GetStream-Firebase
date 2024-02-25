@@ -1,0 +1,11 @@
+{
+  "hosting": [
+    {
+      "target": "chatapp",
+      "source": ".",
+      "frameworksBackend": {
+        "region": "us-central1"
+      }
+    }
+  ]
+}

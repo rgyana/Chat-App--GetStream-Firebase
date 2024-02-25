@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "chatapp-decoded": {
+      "hosting": {
+        "chatapp": [
+          "chatapp-decoded"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "chatapp-decoded"
+  }
+}

@@ -1,0 +1,28 @@
+:host::ng-deep {
+    .p-menubar {
+        font-family: 'Thicccboi', sans-serif;
+        border-radius: 0;
+        background-color: #181c2e;
+        width: 100%;
+        border: none;
+    }
+
+    ////////////////////////////////////////////////////////////////////////////
+    // top pannel
+    .p-menubar .p-menubar-root-list>.p-menuitem>.p-menuitem-link .p-menuitem-text {
+        color: white !important;
+    }
+
+    .p-menubar .p-menubar-root-list>.p-menuitem>.p-menuitem-link .p-menuitem-icon {
+        color: white;
+    }
+
+    // left view icon
+    ////////////////////////////////////////////////////////////////////////////
+    .small-heading {
+        font-size: 0.7rem;
+        margin-bottom: 8px;
+        color: #888888;
+        text-transform: uppercase;
+    }
+}
